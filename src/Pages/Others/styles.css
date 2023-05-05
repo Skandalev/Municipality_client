@@ -1,0 +1,55 @@
+#report-header {
+  height: 7vh;
+  width: 100vw;
+  background-color: #a8dadc;
+  text-align: center;
+}
+
+#image-container {
+  flex-direction: column;
+  text-align: center;
+  background-color: white;
+  z-index: 9;
+  height: 100vh;
+  width: 100vw;
+}
+.mapped-img {
+  margin: 5px;
+}
+.selected {
+  border: 2px dotted #a8dadc;
+}
+.next {
+  position: absolute;
+  bottom: 5%;
+  left: 5%;
+}
+
+.previous {
+  position: absolute;
+  bottom: 5%;
+  right: 5%;
+}
+
+.animation-design {
+  background-color: lightblue;
+  border: 3px dashed royalblue;
+}
+.mb-3 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 1rem;
+}
+.upload-file {
+  text-align: center;
+  background-color: royalblue;
+  padding: 10px;
+  border-radius: 10px;
+  color: white;
+}
+.btn-uploadImage {
+  color: white !important;
+  background-color: royalblue !important;
+  border: none !important;
+}

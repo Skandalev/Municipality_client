@@ -1,0 +1,85 @@
+#nav-container {
+  display: flex;
+  flex-direction: row;
+  background-color: royalblue;
+  padding: 10px;
+  margin: 0px;
+  justify-content: center;
+}
+.fixed-top {
+  z-index: 4 !important;
+  display: flex !important;
+  justify-content: center !important;
+}
+.navbar-brand {
+  margin-right: 0px !important;
+}
+.top-nav-container {
+  background-color: royalblue;
+  height: 75vh;
+  overflow: scroll;
+}
+#drawer-header {
+  color: white;
+  font-size: 23px;
+  font-weight: 600;
+}
+#drawer-inside-header {
+  margin-right: 40vw;
+}
+
+.user-container {
+  width: 80%;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 15px 0px;
+}
+.header-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+}
+.offcanvas {
+  max-width: 101% !important;
+}
+.underline {
+  border-top: 2px solid white;
+  border-bottom: 2px solid white;
+  border-radius: 5px;
+  width: 100%;
+  opacity: 1;
+  margin: 0.75rem 0;
+}
+.bottom-nav-container {
+  background: #c9d6ff; /* fallback for old browsers */
+  background: -webkit-linear-gradient(
+    to right,
+    #e2e2e2,
+    #c9d6ff
+  ); /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(
+    to right,
+    #e2e2e2,
+    #c9d6ff
+  ); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+  height: 25vh;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+._nav-link {
+  color: #0060b6;
+  text-decoration: none;
+}
+._nav-link:hover {
+  color: #00a0c6;
+  text-decoration: none;
+  cursor: pointer;
+}
+.navbar-toggler {
+  position: absolute;
+  left: 1rem;
+}

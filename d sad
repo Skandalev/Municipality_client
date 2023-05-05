@@ -1,0 +1,189 @@
+[33mcommit fc1cee5800fedd60e8c8849a54a554ceaf16e236[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: OrReuben <orreuven1243@gmail.com>
+Date:   Thu Nov 17 14:24:25 2022 +0200
+
+    added user editable
+
+[33mcommit 4217a754ae06c036705f7b012b84e60d33642051[m
+Author: OrReuben <orreuven1243@gmail.com>
+Date:   Thu Nov 17 11:53:11 2022 +0200
+
+    added navbar design
+
+[33mcommit 1b399265b6e0c28e0921eb78bc9259f13c0993ac[m[33m ([m[1;31morigin/alerts[m[33m, [m[1;32malerts[m[33m)[m
+Author: OrReuben <orreuven1243@gmail.com>
+Date:   Thu Nov 17 09:42:37 2022 +0200
+
+    merging with alerts
+
+[33mcommit 6e0b55219ef41c31e0b8ac3e55134a48f13deb61[m
+Author: OrReuben <orreuven1243@gmail.com>
+Date:   Thu Nov 17 09:41:58 2022 +0200
+
+    merging with alerts
+
+[33mcommit 1d5280ffc6c6f0b79422d046cefb9db26e306e84[m
+Merge: 5f337ec 676946e
+Author: OrReuben <110329402+OrReuben@users.noreply.github.com>
+Date:   Thu Nov 17 09:37:22 2022 +0200
+
+    Merge pull request #4 from OfekYehoshua/test
+    
+    Test
+
+[33mcommit 676946ead412410d8d5209d1406983288a4f0546[m[33m ([m[1;31morigin/test[m[33m, [m[1;32mtest[m[33m, [m[1;32mDanGeo[m[33m)[m
+Author: OrReuben <orreuven1243@gmail.com>
+Date:   Thu Nov 17 09:34:00 2022 +0200
+
+    added option to post hazards on Dan's branch
+
+[33mcommit a1bf321ca9946039b5eb9187edff8be1360ff067[m
+Author: unknown <danlev2611@gmail.com>
+Date:   Wed Nov 16 15:48:36 2022 +0200
+
+    location added
+
+[33mcommit 25d494ab63ecf194250c3f4427adbac52e77370d[m
+Author: OrReuben <orreuven1243@gmail.com>
+Date:   Wed Nov 16 15:54:59 2022 +0200
+
+    rebasing with dan
+
+[33mcommit f4cceb2181a490d7d2fc7f191fee70df3f85aa35[m
+Author: OrReuben <orreuven1243@gmail.com>
+Date:   Wed Nov 16 15:54:07 2022 +0200
+
+    rebasing with dan
+
+[33mcommit a98608986212e6decad1312e78606995ce850084[m
+Author: unknown <danlev2611@gmail.com>
+Date:   Wed Nov 16 11:23:27 2022 +0200
+
+    check
+
+[33mcommit 5f337ecef3596377f5d9b3a10c819e7a98c024ad[m[33m ([m[1;31morigin/suggestion[m[33m, [m[1;32msuggestion[m[33m)[m
+Author: OrReuben <orreuven1243@gmail.com>
+Date:   Wed Nov 16 15:47:21 2022 +0200
+
+    suggestion merge
+
+[33mcommit 0783aae116ce3c84358c98ad5f5e4c42f47d5f0d[m
+Author: natali597 <natalinatali597@gmail.com>
+Date:   Wed Nov 16 15:04:41 2022 +0200
+
+    added suggestion route
+
+[33mcommit 85704a10c3a9515595dec75d1a7526076cf41b3a[m
+Author: OrReuben <orreuven1243@gmail.com>
+Date:   Wed Nov 16 15:43:37 2022 +0200
+
+    fixed photo delete
+
+[33mcommit c1213e4a1142a5b31505a39375f56772a62ee4f6[m
+Author: OrReuben <orreuven1243@gmail.com>
+Date:   Wed Nov 16 14:22:57 2022 +0200
+
+    need to fix deleting photos, fetched data
+
+[33mcommit 75c209d461ea4b6b691e74dc30edc354b8d40a15[m
+Author: OrReuben <orreuven1243@gmail.com>
+Date:   Wed Nov 16 12:29:43 2022 +0200
+
+    added navtop navbottom fixed minor errors
+
+[33mcommit aef9824866a91209b65956c857b245b8e563c67e[m
+Author: OrReuben <orreuven1243@gmail.com>
+Date:   Wed Nov 16 10:57:24 2022 +0200
+
+    demo data
+
+[33mcommit ddb0a306e5401da1cbb326880dbbef6397fcc009[m
+Author: OrReuben <orreuven1243@gmail.com>
+Date:   Wed Nov 16 10:29:08 2022 +0200
+
+    merging with ofek
+
+[33mcommit 9d725fa511519a0f522f1bc84874a91cbf9835bf[m[33m ([m[1;31morigin/ofek[m[33m, [m[1;32mofek[m[33m)[m
+Author: OrReuben <orreuven1243@gmail.com>
+Date:   Wed Nov 16 10:23:44 2022 +0200
+
+    rebase 2 completed
+
+[33mcommit 4ff20afecb656e5926763aba73a302aaaac19b98[m
+Author: OrReuben <orreuven1243@gmail.com>
+Date:   Wed Nov 16 10:22:31 2022 +0200
+
+    rebase 1 completed
+
+[33mcommit f7b7e3776d807004035af490d23fb2acc0e2bddb[m
+Author: OrReuben <orreuven1243@gmail.com>
+Date:   Wed Nov 16 10:12:18 2022 +0200
+
+    fixed input and libraries
+
+[33mcommit df03cdeaad9d9962eb24f53ab40f54b025218898[m
+Merge: bf811b2 b571da8
+Author: OrReuben <orreuven1243@gmail.com>
+Date:   Tue Nov 15 16:19:35 2022 +0200
+
+    Merge branch 'master' of https://github.com/OfekYehoshua/Dimona_finalProject_client
+
+[33mcommit b571da8073e62c2a134e2826729e17b94f853ede[m
+Merge: fd5fb08 584122c
+Author: OrReuben <110329402+OrReuben@users.noreply.github.com>
+Date:   Tue Nov 15 16:18:00 2022 +0200
+
+    Merge pull request #2 from OfekYehoshua/hazard-type-summary
+    
+    fixed hazard type and summary
+
+[33mcommit bf811b2d7f3e1b84f0d568d8aa8fcb2298c94818[m
+Author: OrReuben <orreuven1243@gmail.com>
+Date:   Tue Nov 15 16:15:02 2022 +0200
+
+    before merge with natali
+
+[33mcommit 584122c0870c5698f2a87af55213fecaa8da9885[m[33m ([m[1;31morigin/hazard-type-summary[m[33m, [m[1;32mhazard-type-summary[m[33m)[m
+Author: natali597 <natalinatali597@gmail.com>
+Date:   Tue Nov 15 16:13:33 2022 +0200
+
+    fixed hazard type and summary
+
+[33mcommit fd5fb083bdbf1c8f58cb5690e01538651d3e3171[m
+Merge: b9f3630 082b9be
+Author: natali597 <110329310+natali597@users.noreply.github.com>
+Date:   Tue Nov 15 11:02:51 2022 +0200
+
+    Merge pull request #1 from OfekYehoshua/hazard-type
+    
+    hazard-type-and-summary
+
+[33mcommit 082b9beb17b2f00bb4522a2b79248f1665544a50[m[33m ([m[1;31morigin/hazard-type[m[33m)[m
+Author: natali597 <natalinatali597@gmail.com>
+Date:   Tue Nov 15 11:01:30 2022 +0200
+
+    resolved-conflicts
+
+[33mcommit b9f363039a8330a6fab67eb26c2ba7f1de75e721[m
+Author: Ofek Yehoshua <yehoshoaofek@gmail.com>
+Date:   Mon Nov 14 14:47:17 2022 +0200
+
+    homeAndDrawer
+
+[33mcommit 62b26834d855ac99eba8761fbe1c3ae8c423682c[m
+Author: Ofek Yehoshua <yehoshoaofek@gmail.com>
+Date:   Sun Nov 13 21:35:56 2022 +0200
+
+    commition1
+
+[33mcommit 99a06be89d422b20425bf3e188734457e53c6b60[m
+Author: Ofek Yehoshua <yehoshoaofek@gmail.com>
+Date:   Sun Nov 13 10:37:18 2022 +0200
+
+    template
+
+[33mcommit 211d2e9ec84437ae0f7ee02ad5fdc1f41a3335f7[m
+Author: Ofek Yehoshua <yehoshoaofek@gmail.com>
+Date:   Sun Nov 13 10:25:29 2022 +0200
+
+    Initialize project using Create React App

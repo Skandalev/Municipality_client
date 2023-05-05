@@ -1,0 +1,42 @@
+#animation {
+  display: flex;
+  flex-direction: column;
+}
+#line {
+  text-align: center;
+}
+.alert-container {
+  margin: 10px 10px;
+  border: 1px solid;
+  padding: 10px;
+  display: flex;
+  flex-direction: row !important;
+  height: 8vh;
+  box-shadow: -5px 5px 15px 0px rgba(0, 0, 0, 0.603) !important;
+}
+
+
+.alert-button {
+  width: 95%;
+  padding: 10px;
+  margin: 10px 0px;
+}
+
+.button-close {
+  color: white !important;
+  background-color: royalblue !important;
+  border: none !important;
+}
+.alert-btn-text {
+  margin-left: 5px;
+  font-weight: 700 !important;
+}
+.not-done {
+  color: red !important;
+}
+.done {
+  color: green !important;
+}
+.ongoing {
+  color: orange !important;
+}

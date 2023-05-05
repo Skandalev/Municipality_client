@@ -1,0 +1,9 @@
+.custom-btn {
+  margin-top: 2vh;
+  background: royalblue !important;
+  border: 2px solid royalblue !important;
+  border-radius: 3px !important;
+  padding: 1vh 7vw !important;
+  text-transform: uppercase;
+  color: white !important;
+}

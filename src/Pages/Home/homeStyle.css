@@ -1,0 +1,72 @@
+
+#background-video {
+  height: auto;
+  width: 100%;
+  z-index: -1;
+  position: fixed;
+  background-size: cover;
+}
+.video-container {
+  position: relative;
+  width: 100vw;
+}
+
+.home-user-container {
+  position: absolute;
+  width: 100vw;
+  top: 5rem;
+  font-weight: 800;
+  color: white;
+  display: flex;
+  flex-direction: column;
+  align-content: center;
+  justify-content: center;
+  align-items: center;
+}
+
+.home-buttons-container {
+  position: absolute;
+  height: 70vh;
+  width: 100vw;
+  top: 13rem;
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+  flex-direction: column;
+}
+
+.home-button-circle {
+  height: 17rem;
+  width: 17rem;
+  border-radius: 50%;
+  background-color: antiquewhite;
+  border: 2px dashed gray;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+
+.home-button-lined {
+  height: 6rem;
+  width: 20rem;
+  border: 1px solid transparent;
+  border-radius: 1rem;
+  padding-top: 20px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  color: white;
+  background-color: royalblue;
+}
+.home-header {
+  background-color: rgb(255, 78, 78);
+  padding: 15px;
+  color: white;
+  font-weight: 700;
+  letter-spacing: 1.2px;
+}
+.home-lists-container{
+  background-color: whitesmoke;
+}

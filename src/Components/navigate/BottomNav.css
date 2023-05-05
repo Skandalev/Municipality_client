@@ -1,0 +1,15 @@
+.next .btn {
+  padding: 1rem 4.5rem !important;
+  color: white !important;
+  border: none;
+  background-color: royalblue;
+}
+.next .btn:disabled {
+  color: gray;
+  opacity: 0.7;
+}
+@media only screen and (max-height: 560px) {
+  .next .btn {
+    display: none;
+  }
+}

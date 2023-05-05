@@ -1,0 +1,11 @@
+.App {
+
+  margin: 0;
+  padding: 0;
+}
+.btn_accessibility {
+  z-index: 6 !important;
+}
+body > div.accessibility_component.accessibility_div_wrap {
+  z-index: 6 !important;
+}

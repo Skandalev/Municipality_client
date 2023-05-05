@@ -1,0 +1,45 @@
+.user-page-container {
+  overflow: hidden;
+}
+
+.user-page-container .top {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  background: royalblue;
+  height: 25vh;
+  width: 100vw;
+  position: relative;
+  z-index: 10;
+}
+.user-info {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+.user-page-container .bottom {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: white;
+  height: 61.3vh;
+  width: 100vw;
+}
+.user-navtop {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  position: relative;
+  color: white;
+  background-color: royalblue;
+  width: 100vw;
+  height: 10vh;
+  z-index: 10;
+}
+.user-navtop svg {
+  position: absolute;
+  right: 1rem;
+  font-size: 25px;
+}

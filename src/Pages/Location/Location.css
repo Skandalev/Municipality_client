@@ -1,0 +1,55 @@
+.location-container {
+  overflow: hidden;
+  width: 100vw;
+  height: 100vh;
+  background-color: white;
+  z-index: 9;
+}
+.location-div {
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  align-content: space-around;
+  justify-content: center;
+  align-items: center;
+}
+.next-location {
+  display: flex;
+}
+.location-wrapper {
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+  background-color: royalblue;
+  border: 3px dashed black;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 20px 0px 10vh 0px;
+}
+
+.location-wrapper svg {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.location-text {
+  padding-top: 20px;
+  text-align: center;
+  overflow: hidden;
+}
+.location-input {
+  border-top-style: hidden;
+  border-right-style: hidden;
+  border-left-style: hidden;
+  border-bottom-style: hidden;
+  border: 2px solid black;
+  text-align: right;
+  height: 6vh;
+  border-radius: 10px;
+}
+.location-btn {
+  background-color: royalblue !important;
+  border: none !important;
+}

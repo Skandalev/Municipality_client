@@ -1,0 +1,114 @@
+.container {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  position: relative;
+  z-index: 10;
+  background-color: white;
+}
+
+.top {
+  width: 100vw;
+  height: 30vh;
+  text-align: center;
+  background-color: royalblue;
+}
+
+.top-header {
+  margin-top: 4vh;
+  margin-bottom: 5vh;
+  color: white;
+  font-size: x-large;
+}
+
+.bottom {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+
+.bottom h5 {
+  margin: 3vh 0px;
+  text-align: right;
+  width: 80vw;
+  font-size: 1rem;
+}
+
+.input-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 100vw;
+}
+.input-and-svg {
+  width: 290px;
+  border-bottom: 1px solid white;
+  padding-top: 30px;
+}
+.input-and-svg input {
+  border-top-style: hidden;
+  border-right-style: hidden;
+  border-left-style: hidden;
+  border-bottom-style: hidden;
+  background-color: royalblue;
+  color: white;
+  text-align: right;
+  font-size: 20px;
+}
+.input-and-svg input::placeholder {
+  font-size: medium;
+  color: white;
+  text-align: right;
+  font-size: 20px;
+}
+
+.input-and-svg input:focus {
+  outline: none;
+}
+.input-and-svg svg {
+  margin-left: 25px;
+}
+
+.modal-input {
+  border-top-style: hidden;
+  border-right-style: hidden;
+  border-left-style: hidden;
+  border-bottom-style: hidden;
+  color: black;
+  font-size: 30px;
+  height: 130px;
+  overflow-wrap: break-word;
+}
+
+.modal-input:focus {
+  outline: none;
+}
+.button-container {
+  display: flex;
+  justify-content: flex-end;
+  border: none;
+  padding-right: unset;
+  align-items: center;
+  padding: 15px;
+  background-color: transparent;
+  flex-direction: row-reverse;
+  border: none;
+}
+
+hr {
+  border-bottom: 1px solid gray !important;
+  border-radius: 5px;
+  margin: 10px 0px;
+  width: 80vw;
+}
+
+.button-text {
+  margin-right: 5vw;
+  font-size: 5vw;
+  color: black;
+}
+.modal-btn .btn {
+  color: white !important;
+  background-color: royalblue !important;
+  border: none;
+}

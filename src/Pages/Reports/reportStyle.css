@@ -1,0 +1,18 @@
+.navtop-all-reports{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: royalblue;
+    width: 100vw;
+    height: 10vh;
+    color: white;
+    font-weight: 700;
+    letter-spacing: 1.2px;
+    position: relative;
+    z-index: 10;
+}
+.navtop-all-reports svg{
+    position: absolute;
+    right:1rem;
+    font-size: 25px;
+}

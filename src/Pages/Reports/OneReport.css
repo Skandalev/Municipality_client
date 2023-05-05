@@ -1,0 +1,52 @@
+.details-btn {
+  background: none;
+  border: none;
+  margin-right: 3vw;
+  margin-top: 2vh;
+}
+.reports-details {
+  margin-right: 5vw;
+  margin-top: 2vh;
+}
+
+.report-icon {
+  margin-left: 2vw;
+}
+
+.report-status {
+  margin-top: 5vh;
+  text-align: center;
+  margin-bottom: 5vh;
+}
+.reports-details-value {
+  margin: 1rem 0px;
+}
+.reports-details-title {
+  font-size: 1.5rem;
+}
+._1Lo2h {
+  flex-direction: row-reverse;
+  font-weight: bolder;
+}
+._3uApM {
+  display: none !important;
+}
+
+._1hzhf {
+  font-weight: 700;
+}
+.not-done {
+  color: red;
+}
+.ongoing {
+  color: orange;
+}
+.done {
+  color: green;
+}
+
+.navtop-alerts-btn-out {
+  position: absolute;
+  left: 1rem;
+  font-size: 30px;
+}

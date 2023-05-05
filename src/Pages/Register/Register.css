@@ -1,0 +1,25 @@
+.mb-3 {
+  margin: 0px !important;
+  z-index: 10;
+}
+.nav-tabs .nav-link {
+  color: white;
+  margin:0px 10px
+}
+.auth-container {
+  height: 100vh;
+  width: 100vw;
+  grid-template-rows: 10% auto;
+  display: grid;
+  position: relative;
+  gap: 20px;
+}
+.return-btn{
+  position: absolute;
+  top:1rem;
+  right: 1rem;
+  z-index: 11;
+  color:white;
+  font-size: 30px;
+
+}

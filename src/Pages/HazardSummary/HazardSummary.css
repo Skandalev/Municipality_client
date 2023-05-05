@@ -1,0 +1,42 @@
+.summary-body {
+  text-align: right;
+  width: 100vw;
+  height: 100vh;
+  background-color: white;
+  z-index: 9;
+}
+
+
+.back-button {
+  background: none;
+  border: none;
+  font-size: small;
+  display: list-item;
+  text-align: end;
+  color: white;
+}
+
+.card-summary {
+  display: flex;
+  height: 50vh;
+  margin: 0vh 5vw 5vh 5vw;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  place-content: center;
+  border: none !important;
+}
+
+.card-summary img {
+  margin: 3vh 2vw;
+  width: 160px !important;
+  height: 125px;
+}
+.summary-bottom-body {
+  margin-right: 2vw;
+  margin-top: 2vh;
+}
+.next {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
